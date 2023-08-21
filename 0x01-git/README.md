@@ -6,3 +6,7 @@ If this doesn't work and the checker is still asking for the right Commit messag
 If that still doesn't work I might have to destroy the sandbox and delete the repo from github and start the project again
 Wish me luck
 
+Okay so I made the same mistake and forgot to add 'today' while naming the commit
+which is really frustrating because I know what they're asking me to do I'm just making clumsy errors.
+Not with them with myself.
+One more try
